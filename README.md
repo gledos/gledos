@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true)
+![github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true)
 
 <!--
 **gledos/gledos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
