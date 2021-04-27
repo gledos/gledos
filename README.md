@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gledos&theme=dark&show_icons=true&layout=compact&hide=ruby,SCSS,CSS,Shell,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+![github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true&layout=compact](https://github-readme-stats.vercel.app/api?username=gledos&theme=dark&show_icons=true)
 
 <!--
 **gledos/gledos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
